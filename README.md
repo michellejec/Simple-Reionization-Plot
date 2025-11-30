@@ -8,4 +8,4 @@ If you find this code useful please cite [Muñoz+24](https://arxiv.org/abs/2404.
 <img src="EoR_Plot.png" width=50% height=50%>
 </p>
 
-Note that the calculations require installing [Zeus21](https://github.com/JulianBMunoz/Zeus21) which should be very easy, but reach out if you find any issues!
+Note that the calculations require (pip)installing [Zeus21](https://github.com/JulianBMunoz/Zeus21) which should be very easy, but reach out if you find any issues!
